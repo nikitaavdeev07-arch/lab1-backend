@@ -65,20 +65,22 @@ app.listen(port, () => {
   console.log(`Сервер запущен на http://localhost:${port}`);
 });
 
+## Результаты проверки
+
 ### Корневой маршрут
-![Корневой маршрут](/root.png)
+![Корневой маршрут](screenshots/root.png)
 
 ### Список пользователей
-![Пользователи](/users.png)
+![Пользователи](screenshots/users.png)
 
 ### Справочник ролей
-![Роли](/roles.png)
+![Роли](screenshots/roles.png)
 
 ### Обработка 404
-![404](404.png)
+![404 Not Found](screenshots/404.png)
 
-### Авто-перезапуск и логи
-![Nodemon](nodemon.png)
+### Авто-перезапуск и логи запросов
+![Nodemon](screenshots/nodemon.png)
 
 ## Ответы на контрольные вопросы
 
