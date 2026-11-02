@@ -130,3 +130,6 @@ app.listen(port, () => {
 5. **Nodemon — документация.** — URL: https://nodemon.io/
 6. **Flask — официальная документация.** — URL: https://flask.palletsprojects.com/
 7. **REST API — основные принципы (GeeksforGeeks).** — URL: https://www.geeksforgeeks.org/node-js/explain-the-concept-of-restful-apis-in-express/
+
+
+## Ссылка на github: https://github.com/nikitaavdeev07-arch/lab1-backend
